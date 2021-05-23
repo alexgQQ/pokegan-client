@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.main {
+  top: 10%;
+  left: 25%;
+  width: 50%;
+}
+
+.loading {
+  left: 25%;
+  width: 50%;
+}
+
+.header {
+  margin-top: 10px;
+  text-align: center;
+}
